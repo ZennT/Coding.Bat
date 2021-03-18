@@ -5,7 +5,7 @@ package com.data;
  * except return double the absolute difference if n is over 21.
  *
  */
-public class diff21 {
+public class Diff21 {
 
     public static void main(String[] args) {
 

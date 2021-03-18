@@ -9,6 +9,17 @@ package com.data;
 
 public class ParrotTrouble {
     public static void main(String[] args) {
+        parrotTrouble(true,7);
+
+    }
+    public static boolean parrotTrouble(boolean talking, int hour) {
+        if(talking && 20 < hour || talking && hour < 7){
+
+            //System.out.println("true");
+                return true;
+        }
+        //System.out.println("false");
+        return false;
 
     }
 }
