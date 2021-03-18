@@ -6,9 +6,22 @@ package com.data;
  *
  */
 public class diff21 {
+
     public static void main(String[] args) {
 
+        diff21(32);
 
+    }
+
+    public static int diff21(int n){
+
+        if(n <= 21){
+            System.out.println("21-n");
+            return (21 - n);
+        }else {
+            System.out.println("(n - 21) * 2");
+            return (n - 21) * 2;
+        }
     }
 
 }
