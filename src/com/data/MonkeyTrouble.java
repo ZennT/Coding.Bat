@@ -7,6 +7,7 @@ package com.data;
  * We are in trouble if they are both smiling or
  * if neither of them is smiling. Return true if we are in trouble.
  */
+
 public class MonkeyTrouble {
 
     public static void main(String[] args) {
@@ -21,4 +22,5 @@ public class MonkeyTrouble {
         }
             return false;
     }
+
 }

@@ -6,5 +6,9 @@ package com.data;
  *
  */
 public class diff21 {
+    public static void main(String[] args) {
+
+
+    }
 
 }

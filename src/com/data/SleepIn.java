@@ -7,7 +7,6 @@ package com.data;
  * Return true if we sleep in.
  */
 
-
 public class SleepIn {
 
     public static void main(String[] args) {
