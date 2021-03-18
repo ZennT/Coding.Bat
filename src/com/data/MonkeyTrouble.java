@@ -8,6 +8,7 @@ public class MonkeyTrouble {
     // if neither of them is smiling. Return true if we are in trouble.
 
     public static void main(String[] args) {
+
         monkeyTrouble(true,true);
     }
     public static boolean monkeyTrouble(boolean aSmile, boolean bSmile){
