@@ -1,9 +1,12 @@
 package com.data;
 
+/**
+ * Given two int values, return their sum.
+ * Unless the two values are the same,
+ * then return double their sum.
+ */
+
 public class SumDouble {
-    //Given two int values, return their sum.
-    // Unless the two values are the same,
-    // then return double their sum.
 
     public static void main(String[] args) {
         sumDouble(2,2);
