@@ -8,10 +8,16 @@ package com.data;
 public class Makes10 {
 
     public static void main(String[] args) {
-        makes10(9,10);
+        makes10(10,9);
     }
 
-    }
     public static boolean makes10(int a, int b) {
+        if(a == 10 || b == 10 || a + b == 10){
+            return true;
+        }
+        return false;
+
+
 
     }
+}
