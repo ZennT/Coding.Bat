@@ -1,6 +1,6 @@
 package com.data;
 
-public class Main {
+public class SleepIn {
 
     public static void main(String[] args) {
 	// write your code here
